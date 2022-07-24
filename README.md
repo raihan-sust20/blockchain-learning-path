@@ -49,6 +49,7 @@ with:
 4. [The Ultimate ENS and ĐApp Tutorial](https://www.toptal.com/ethereum/ethereum-name-service-dapp-tutorial)
 5. [Ultimate Introduction to Ethereum Ðapp Development](https://www.youtube.com/playlist?list=PLV1JDFUtrXpFh85G-Ddyy2kLSafaB9biQ) (Est. time: 4 hs)
 6. [Ethernaut](https://ethernaut.zeppelin.solutions/) is a Web3/Solidity based wargame for those interested in learning ethereum
+7. [Web3 University](https://www.web3.university/) has a collection of courses to learn Web3 development.
 
 ## Courses
 
