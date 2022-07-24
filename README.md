@@ -21,13 +21,15 @@ with:
 ## Blockchain
 
 1. Read [Blockchain Explained](https://www.investopedia.com/terms/b/blockchain.asp). (Est.time: 26 minutes)
-2. Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8). (Est. time: 18 minutes)
+2. Take a look at this visual [Blockchain explained](http://graphics.reuters.com/TECHNOLOGY-BLOCKCHAIN/010070P11GN/index.html) guide.(Est. time 15 minutes)
+3. Watch [Blockchain - A visual demo](https://www.youtube.com/watch?v=_160oMzblY8). (Est. time: 18 minutes)
 
 ## Bitcoin
 
 1. Read [How the Bitcoin protocol actually works](http://www.michaelnielsen.org/ddi/how-the-bitcoin-protocol-actually-works/). (Est. time: 45 minutes)
 2. Watch [this video](https://www.youtube.com/watch?v=bBC-nXj3Ng4) (lighter than the previous
    article but useful to solidify your knowledge). (Est. time: 26 minutes)
+3. Take a look at [this demo](https://learnmeabitcoin.com/)
 
 ## Ethereum
 
